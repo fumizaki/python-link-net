@@ -1,6 +1,7 @@
 # python-link-net
 
 入力値をもとに施設(facility.csv)の情報を接続し、単方向連結リストを作成します。
+
 接続定義(connection.csv)に従って、施設-他の単方向連結リストを接続します。
 
 
